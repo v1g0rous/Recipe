@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"recipes.controller","l":"RecipesController"},{"p":"recipes.service","l":"RecipesService"},{"p":"recipes.controller","l":"UsersController"},{"p":"recipes.service","l":"UserService"}];updateSearchResults();
